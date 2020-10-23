@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "slavikshakhov.github.io/slavik-checkers/static/css/main.4f062352.chunk.css",
-    "main.js": "slavikshakhov.github.io/slavik-checkers/static/js/main.40a385a4.chunk.js",
-    "main.js.map": "slavikshakhov.github.io/slavik-checkers/static/js/main.40a385a4.chunk.js.map",
-    "runtime~main.js": "slavikshakhov.github.io/slavik-checkers/static/js/runtime~main.3f762f87.js",
-    "runtime~main.js.map": "slavikshakhov.github.io/slavik-checkers/static/js/runtime~main.3f762f87.js.map",
-    "static/css/2.3c03f26f.chunk.css": "slavikshakhov.github.io/slavik-checkers/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.017affd2.chunk.js": "slavikshakhov.github.io/slavik-checkers/static/js/2.017affd2.chunk.js",
-    "static/js/2.017affd2.chunk.js.map": "slavikshakhov.github.io/slavik-checkers/static/js/2.017affd2.chunk.js.map",
-    "index.html": "slavikshakhov.github.io/slavik-checkers/index.html",
-    "precache-manifest.523f01578416960b566db1a4920ad384.js": "slavikshakhov.github.io/slavik-checkers/precache-manifest.523f01578416960b566db1a4920ad384.js",
-    "service-worker.js": "slavikshakhov.github.io/slavik-checkers/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "slavikshakhov.github.io/slavik-checkers/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.4f062352.chunk.css.map": "slavikshakhov.github.io/slavik-checkers/static/css/main.4f062352.chunk.css.map"
+    "main.css": "./static/css/main.4f062352.chunk.css",
+    "main.js": "./static/js/main.9721c2be.chunk.js",
+    "main.js.map": "./static/js/main.9721c2be.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.3c03f26f.chunk.css": "./static/css/2.3c03f26f.chunk.css",
+    "static/js/2.017affd2.chunk.js": "./static/js/2.017affd2.chunk.js",
+    "static/js/2.017affd2.chunk.js.map": "./static/js/2.017affd2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fa4d32ec5347d76830c9c785553744fa.js": "./precache-manifest.fa4d32ec5347d76830c9c785553744fa.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "./static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4f062352.chunk.css.map": "./static/css/main.4f062352.chunk.css.map"
   }
 }
