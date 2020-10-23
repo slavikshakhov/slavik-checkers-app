@@ -1,0 +1,19 @@
+.cols-wrapper {
+    max-height: 22rem; 
+    flex-direction: column-reverse;
+    overflow-y: scroll;
+}
+
+
+.c {      
+    flex: 1;       
+}
+.whoPlays {
+    text-shadow: 3px 3px 6px lightgreen;       
+}
+.player1 {
+    color:  rgb(255,0,0);
+}
+.player2 {
+    color: rgb(46, 16, 16);
+}

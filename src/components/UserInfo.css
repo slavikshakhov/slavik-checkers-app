@@ -1,0 +1,26 @@
+.userInfo {    
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    width: 40%;
+    z-index: 200;
+    animation: 1.5s popup 0.7s;
+    animation-fill-mode: forwards;     
+    border-radius: 5%;
+    opacity: 0;    
+}
+
+@keyframes popup {
+    0% { 
+        transform: scale(0);
+        border-radius: 50%;
+        opacity: 0;
+
+    }
+   
+    100%   { 
+        transform: scale(1);
+        border-radius: 5%;
+        opacity: .8;
+    }
+  }

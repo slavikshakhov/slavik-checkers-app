@@ -1,0 +1,12 @@
+.col {
+    margin: -1.2px -1.2px;
+    
+     
+    position: relative;       
+}
+.dark {
+    background-color: rgb(139,69,19);
+}
+.light {
+    background-color: rgb(222,184,135);
+}
